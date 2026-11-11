@@ -1,0 +1,48 @@
+name: Fehler in einer Notiz melden
+description: Inhaltlicher Fehler, falsche Notation, Tippfehler oder Darstellungsproblem
+title: "[Fehler] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für den Hinweis! Bitte gib die betroffene Notiz und eine kurze Beschreibung des Fehlers an.
+  - type: input
+    id: notiz
+    attributes:
+      label: Betroffene Notiz
+      description: Dateiname oder Pfad der Notiz.
+      placeholder: "z. B. 1. Semester/MaPhy-I/01-Grundlagen/1.2 Mengenlehre/Mächtigkeit und Abzählbarkeit.md"
+    validations:
+      required: true
+  - type: dropdown
+    id: art
+    attributes:
+      label: Art des Fehlers
+      options:
+        - Inhaltlicher oder mathematischer Fehler
+        - Falsche oder ungenaue Notation bzw. Formulierung
+        - Tippfehler oder Rechtschreibung
+        - Darstellungsproblem (Formel, Tabelle, Callout)
+        - Kaputter Link
+        - Sonstiges
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Was ist falsch?
+      description: Bitte möglichst genau, bei Formeln die betroffene Stelle zitieren.
+    validations:
+      required: true
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Korrekturvorschlag (optional)
+  - type: checkboxes
+    id: duplikat
+    attributes:
+      label: Vorab geprüft
+      options:
+        - label: Zu diesem Fehler gibt es noch kein offenes Issue.
+          required: true

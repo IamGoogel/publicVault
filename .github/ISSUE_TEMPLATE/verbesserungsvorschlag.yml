@@ -1,0 +1,34 @@
+name: Verbesserungsvorschlag
+description: Fehlendes Thema, Ergänzung oder bessere Erklärung vorschlagen
+title: "[Vorschlag] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für deinen Vorschlag! Bitte beschreibe kurz, was ergänzt oder verbessert werden soll.
+  - type: input
+    id: notiz
+    attributes:
+      label: Betroffene Notiz oder Thema
+      description: Dateiname, Pfad oder Thema, falls es noch keine Notiz dazu gibt.
+    validations:
+      required: true
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Vorschlag
+    validations:
+      required: true
+  - type: textarea
+    id: begruendung
+    attributes:
+      label: Begründung (optional)
+      description: Warum wäre die Änderung hilfreich?
+  - type: checkboxes
+    id: rechte
+    attributes:
+      label: Hinweis zu Inhalten
+      options:
+        - label: Der Vorschlag enthält keine kopierten Inhalte aus Lehrmaterial Dritter.
+          required: true
