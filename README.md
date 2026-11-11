@@ -24,10 +24,12 @@ Der Ordner ist ein **Obsidian-Vault**: Markdown-Dateien mit Obsidian-spezifische
 2. Die ZIP-Datei entpacken.
 3. In Obsidian **Open folder as vault** wählen und den entpackten Ordner auswählen.
 
-Für neue Inhalte muss das ZIP erneut heruntergeladen werden.
+Das ZIP ist eine Momentaufnahme des aktuellen Stands und wird nicht automatisch aktualisiert. Neue oder korrigierte Inhalte kommen dadurch nicht an; dafür müsste das ZIP jedes Mal erneut heruntergeladen werden. Deshalb wird das Klonen des Repositories empfohlen (siehe unten).
 
-**Mit Git:**
+**Mit Git (empfohlen):**
 ```
 git clone https://github.com/IamGoogel/publicVault.git
 ```
 Den Ordner `publicVault` anschließend in Obsidian als Vault öffnen. Neue Inhalte holt man später im Ordner mit `git pull`.
+
+Ausführliche Anleitung zum Klonen (englisch): [Cloning a repository – GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
