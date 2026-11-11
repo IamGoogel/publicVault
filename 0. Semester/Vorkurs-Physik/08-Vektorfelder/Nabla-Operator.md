@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: nabla operator, differential operator
 ---
+
+# Nabla-Operator
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Nabla-Operator
 > $$\nabla = \begin{pmatrix} \frac{\partial}{\partial x} \\ \frac{\partial}{\partial y} \\ \frac{\partial}{\partial z} \end{pmatrix}$$

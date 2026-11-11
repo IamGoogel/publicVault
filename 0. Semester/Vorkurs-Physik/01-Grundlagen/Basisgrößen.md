@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Grundlagen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: base quantities, physical quantities, SI
 ---
+
+# Basisgrößen
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Das [[Si-Einheiten|SI]] kennt **7 Basisgrößen**. Jeder Basisgröße ist eine [[Basiseinheiten|Basiseinheit]] zugeordnet.

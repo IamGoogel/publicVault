@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Volumen- und Flächenintegrale"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: volume integral, integration
 ---
+
+# Volumenintegral
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Volumenintegral
 > Für ein Skalarfeld $f$ über einem Raumgebiet $V$:

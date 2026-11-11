@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Polynome und Brüche"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: rational function, polynomial, poles
 ---
+
+# Gebrochen-rationale Funktion
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Eine **gebrochen-rationale** [[2.0 Abbildungen|Funktion]] ist ein Bruch von [[Polynome|Polynomen]]:

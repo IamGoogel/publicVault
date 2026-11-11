@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Grundlagen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Greek alphabet, symbols, notation
 ---
+
+# Das griechische Alphabet
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 >

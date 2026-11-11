@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Lennard-Jones potential, potential, approximation
 ---
+
+# Lennard-Jones-Potential
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Lennard-Jones-Potential
 > Ein häufig verwendetes Modell für die potentielle Energie zweier Atome im Abstand $r$; $A$ und $B$ sind positive Konstanten:

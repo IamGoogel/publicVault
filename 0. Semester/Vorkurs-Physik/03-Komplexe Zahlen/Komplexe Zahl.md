@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: complex number, real part, imaginary part
 ---
+
+# Komplexe Zahl
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Eine **komplexe Zahl** hat die **Normalform**

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: separation of variables, differential equation
 ---
+
+# Separation der Variablen
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Separation der Variablen
 > Anwendbar auf Gleichungen erster Ordnung, die sich als $y' = g(x)\cdot h(y)$ schreiben lassen, also als Produkt eines reinen $x$-Anteils und eines reinen $y$-Anteils. Ob die Gleichung linear ist, spielt keine Rolle.

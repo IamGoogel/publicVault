@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Polynome und Brüche"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: polynomial division, polynomials
 ---
+
+# Polynomdivision
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Die **Polynomdivision** zerlegt eine [[Gebrochen-rationale Funktion|gebrochen-rationale Funktion]]:

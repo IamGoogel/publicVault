@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: linearity, integral
 ---
+
+# Linearität des Integrals
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Linearität des Integrals
 > Konstante Faktoren kann man herausziehen, Summen lassen sich Term für Term integrieren:

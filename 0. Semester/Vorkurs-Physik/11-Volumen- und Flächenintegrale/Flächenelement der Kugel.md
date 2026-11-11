@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Volumen- und Flächenintegrale"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: surface element, sphere, spherical coordinates
 ---
+
+# Flächenelement der Kugel
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Flächenelement der Kugel
 > $dA = dx\,dy$ gilt nur für ein ebenes Stück in der $x$-$y$-Ebene. Auf einer Kugeloberfläche ist $r = R$ konstant, und von den drei Kanten des Volumenelements entfällt die radiale:

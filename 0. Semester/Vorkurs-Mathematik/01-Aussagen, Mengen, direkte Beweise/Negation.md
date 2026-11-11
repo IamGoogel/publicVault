@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Mathematik
 fach: Mathematik
-semester: 0
 part: "Kap. 1"
-Kurs: Vorkurs Mathematik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-mathe]
+keywords: negation, truth table, double negation, law of excluded middle
 ---
+
+# Negation
+
+#vorkurs #vorkurs-mathe
 
 > [!definition]
 > Die **Negation** $\lnot A$ einer Aussage $A$ ist genau dann wahr, wenn $A$ falsch ist.

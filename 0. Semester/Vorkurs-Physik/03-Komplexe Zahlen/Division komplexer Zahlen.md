@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: complex division, complex conjugate, complex numbers
 ---
+
+# Division komplexer Zahlen
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Erweitern mit der [[Komplexe Konjugation|komplex konjugierten]] Zahl des Nenners:

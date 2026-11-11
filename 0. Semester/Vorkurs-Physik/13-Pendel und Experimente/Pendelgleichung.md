@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Pendel und Experimente"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: pendulum equation, differential equation, small angle
 ---
+
+# Pendelgleichung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Pendelgleichung
 > Für ein Fadenpendel mit Auslenkwinkel $\varphi(t)$ gilt

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: differential operators, nabla, gradient, divergence, curl
 ---
+
+# Differentialoperatoren
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Die drei Differentialoperatoren
 > Sie ergeben sich, wenn man den [[Nabla-Operator]] $\nabla = (\partial_x, \partial_y, \partial_z)^T$ auf drei Arten mit einem Feld verknüpft: durch einfache Multiplikation, im Skalarprodukt und im Kreuzprodukt. Für ein Skalarfeld $f$ und ein Vektorfeld $\vec{F}$ gilt

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: conservative force, potential
 ---
+
+# Konservative Kraft
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Konservative Kraft
 > Eine Kraft heißt konservativ, wenn man sie als $\vec{F} = -\nabla V$ darstellen kann. Sie ist dann wirbelfrei. Wird ein Körper auf irgendeinem Weg zum Ausgangspunkt zurückgebracht, ist insgesamt keine Arbeit geleistet worden. Bei Reibung ist das nicht so.

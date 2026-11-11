@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: complex conjugate, complex numbers
 ---
+
+# Komplexe Konjugation
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Zu $z = u + iv$ ist

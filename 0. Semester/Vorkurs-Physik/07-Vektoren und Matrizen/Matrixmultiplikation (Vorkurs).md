@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: matrix multiplication, matrix
 ---
+
+# Matrixmultiplikation (Vorkurs)
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Matrixmultiplikation
 > Das Produkt existiert nur, wenn die Formate zusammenpassen. Sein Eintrag ist das Skalarprodukt der $i$-ten Zeile von $A$ mit der $j$-ten Spalte von $B$:

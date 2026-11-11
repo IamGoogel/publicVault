@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Mathematik
 fach: Mathematik
-semester: 0
 part: "Kap. 1"
-Kurs: Vorkurs Mathematik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-mathe]
+keywords: straight line, slope, y-intercept, linear function
 ---
+
+# Gerade
+
+#vorkurs #vorkurs-mathe
 
 > [!definition]
 > Eine nicht senkrechte **Gerade** ist der Graph einer linearen [[2.0 Abbildungen|Funktion]]

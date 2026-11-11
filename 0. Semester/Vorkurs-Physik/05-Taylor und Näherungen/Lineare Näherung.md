@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: linear approximation, tangent
 ---
+
+# Lineare Näherung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Lineare Näherung
 > Taylor-Entwicklung bis zur ersten Ordnung (nur lineare Terme). Für hinreichend kleine $x$ ist die Tangente an $f$ im Punkt null die Näherung, gebraucht werden nur zwei Zahlen:

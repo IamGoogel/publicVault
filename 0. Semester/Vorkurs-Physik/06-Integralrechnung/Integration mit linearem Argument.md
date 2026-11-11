@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: linear argument, integration, substitution
 ---
+
+# Integration mit linearem Argument
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Lineares Argument
 > Steht statt $x$ der Ausdruck $ax + b$ ($a \neq 0$, $b$ konstant), kommt der Faktor $\frac{1}{a}$ hinzu:

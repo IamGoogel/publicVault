@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: small-angle approximation, sine, Taylor expansion
 ---
+
+# Kleinwinkelnäherung
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Für kleine Winkel $\varphi$ gilt die **Kleinwinkelnäherung**

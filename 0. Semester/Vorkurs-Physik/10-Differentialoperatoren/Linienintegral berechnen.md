@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: line integral, computation, parametrization
 ---
+
+# Linienintegral berechnen
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Vorgehen: Linienintegral in sechs Schritten
 > 1. Den Weg parametrisieren: $\vec{r}(t)$ mit $t \in [t_1, t_2]$. Kontrolle: $t_1$ und $t_2$ müssen Anfangs- und Endpunkt ergeben ([[Bahnkurve]]).

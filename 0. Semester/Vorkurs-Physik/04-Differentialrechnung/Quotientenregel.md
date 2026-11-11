@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: quotient rule, derivative
 ---
+
+# Quotientenregel
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Quotientenregel
 > $$\left(\frac{u}{v}\right)' = \frac{u'\,v - u\,v'}{v^2}$$

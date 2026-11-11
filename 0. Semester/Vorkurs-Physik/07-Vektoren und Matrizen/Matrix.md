@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: matrix, linear algebra
 ---
+
+# Matrix
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Matrix
 > Eine Matrix ist mehr als eine Zahlentabelle: Sie ordnet jedem Vektor einen anderen Vektor zu (etwa dasselbe Dreieck im gedrehten und im ungedrehten Koordinatensystem).

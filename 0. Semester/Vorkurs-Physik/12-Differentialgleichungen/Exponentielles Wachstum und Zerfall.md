@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: exponential growth, exponential decay, differential equation
 ---
+
+# Exponentielles Wachstum und Zerfall
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Exponentielles Wachstum und Zerfall
 > Ist die Änderungsrate einer Größe proportional zur Größe selbst, gilt

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: complex addition, complex subtraction, complex numbers
 ---
+
+# Addition und Subtraktion komplexer Zahlen
+
+#vorkurs #vorkurs-physik
 
 > [!example]+ Beispiel
 > Mit $z_1 = 4 + 2i$ und $z_2 = -2 + 3i$:

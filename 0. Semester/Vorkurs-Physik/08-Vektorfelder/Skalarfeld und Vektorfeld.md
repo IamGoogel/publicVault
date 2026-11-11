@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: scalar field, vector field
 ---
+
+# Skalarfeld und Vektorfeld
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Skalarfeld und Vektorfeld
 > Ein Skalarfeld weist jedem Raumpunkt eine Zahl zu, ein Vektorfeld einen Vektor:

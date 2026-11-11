@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: average velocity, difference quotient
 ---
+
+# Durchschnittsgeschwindigkeit
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Durchschnittsgeschwindigkeit
 > Änderung des Ortes $\Delta x$ geteilt durch die dafür benötigte Zeit $\Delta t$:

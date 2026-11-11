@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: differential, infinitesimal, derivative
 ---
+
+# Differential
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Ableitung als Übertragungsfaktor
 > Ändert sich die unabhängige Variable um ein kleines $dx$, so ändert sich die abhängige um den Betrag, den man erhält, wenn man $dx$ mit der Ableitung multipliziert:

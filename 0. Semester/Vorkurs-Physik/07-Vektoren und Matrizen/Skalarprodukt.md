@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: scalar product, dot product, vectors
 ---
+
+# Skalarprodukt
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Skalarprodukt
 > Wenn $\vec{a}$ und $\vec{b}$ den Winkel $\alpha$ bilden, gilt

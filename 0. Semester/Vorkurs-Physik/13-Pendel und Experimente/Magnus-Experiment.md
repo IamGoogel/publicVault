@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Pendel und Experimente"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Magnus experiment, measured quantity, parameters, flight path
 ---
+
+# Magnus-Experiment
+
+#vorkurs #vorkurs-physik
 
 > [!example] Magnus-Experiment
 > Skizze: Versuchsaufbau mit Höhe $H$, $d$-Achse mit $d = 0$ am Startpunkt, gestrichelte Flugbahn.

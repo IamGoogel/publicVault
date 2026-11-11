@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Grundlagen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: base units, SI units
 ---
+
+# Basiseinheiten
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Die **Basiseinheiten** des [[Si-Einheiten|SI]] gehören zu den 7 [[Basisgrößen|Basisgrößen]]:

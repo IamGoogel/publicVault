@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: sine, cosine, cycle, derivatives, integrals
 ---
+
+# Vierer-Zyklus von Sinus und Kosinus
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Vierer-Zyklus
 > Beim Ableiten durchläuft man (im Uhrzeigersinn) die Folge

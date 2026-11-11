@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: second derivative, curvature, acceleration
 ---
+
+# Zweite Ableitung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Zweite Ableitung nach der Zeit
 > Zweimaliges Ableiten des Ortes nach der Zeit ergibt $a$:

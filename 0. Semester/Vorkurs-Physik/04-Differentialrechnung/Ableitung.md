@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: derivative, differentiation, slope
 ---
+
+# Ableitung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Ableitung
 > Verkleinert man das Intervall $\Delta t$ im Differenzenquotienten $\frac{\Delta x}{\Delta t}$ immer weiter, geht er in den Differentialquotienten über:

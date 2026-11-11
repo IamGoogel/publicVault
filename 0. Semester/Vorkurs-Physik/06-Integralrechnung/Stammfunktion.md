@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: antiderivative, integral
 ---
+
+# Stammfunktion
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Stammfunktion
 > Eine Funktion $F$ mit $F' = f$ nennt man Stammfunktion von $f$.

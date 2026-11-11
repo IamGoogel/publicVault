@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: even function, odd function, symmetry
 ---
+
+# Gerade und ungerade Funktion
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Gerade und ungerade Funktion
 > - gerade: $f(-x) = f(x)$, etwa $x^2$ oder $\cos x$

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: dot notation, time derivative
 ---
+
+# Punktnotation
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Punktnotation
 > Zeitableitungen kennzeichnet man in der Physik durch einen Punkt über dem Symbol:

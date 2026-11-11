@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: symmetric interval, even function, odd function, integral
 ---
+
+# Integral über symmetrisches Intervall
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Ausnutzen von Symmetrie
 > Für ein Intervall $[-a,a]$ gilt

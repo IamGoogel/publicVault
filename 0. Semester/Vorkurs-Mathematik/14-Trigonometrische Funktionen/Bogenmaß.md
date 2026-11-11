@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Mathematik
 fach: Mathematik
-semester: 0
 part: "Kap. 14"
-Kurs: Vorkurs Mathematik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-mathe]
+keywords: radian, angle measure, arc length
 ---
+
+# Bogenmaß
+
+#vorkurs #vorkurs-mathe
 
 > [!definition]
 > Das **Bogenmaß** gibt einen Winkel $\varphi$ als Verhältnis von Bogenlänge $b$ zu Radius $r$ an:

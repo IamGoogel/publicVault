@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: initial value problem, boundary value problem, boundary conditions
 ---
+
+# Randwertproblem
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Anfangswert- und Randwertproblem
 > Werden beide Bedingungen an derselben Stelle vorgegeben (Anfangswertproblem), lassen sich die Konstanten $a$ und $b$ der [[Schwingungsgleichung]] direkt ablesen. Liegen sie an verschiedenen Stellen (Randwertproblem, z. B. $y(0)$ und $y(\pi/2)$), muss man ein kleines Gleichungssystem lösen. Dabei werden Sinuswerte bei Vielfachen von $\frac{\pi}{2}$ benötigt.

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: potential, force field, integration
 ---
+
+# Potential aus Kraftfeld bestimmen
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Vorgehen: Existenz eines Potentials prüfen und berechnen
 > Gegeben ist $\vec{F}$, gesucht ein $U$ mit $\vec{F} = -\nabla U$.

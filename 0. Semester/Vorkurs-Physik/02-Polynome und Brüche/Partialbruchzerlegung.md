@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Polynome und Brüche"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: partial fractions, rational function
 ---
+
+# Partialbruchzerlegung
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Bei der **Partialbruchzerlegung** wird ein Bruch $\frac{P(x)}{Q(x)}$ mit dem Ansatz

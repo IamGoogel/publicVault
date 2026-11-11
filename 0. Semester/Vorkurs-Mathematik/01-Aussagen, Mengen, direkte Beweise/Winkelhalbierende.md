@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Mathematik
 fach: Mathematik
-semester: 0
 part: "Kap. 1"
-Kurs: Vorkurs Mathematik
-Verstaendnis: 0
-gelesen: true
-geuebt: true
-tags: [vorkurs, vorkurs-mathe]
+keywords: angle bisector, line, quadrant, coordinate system
 ---
+
+# Winkelhalbierende
+
+#vorkurs #vorkurs-mathe
 
 > [!definition]
 > Die **Winkelhalbierende** teilt einen Winkel in zwei gleich große Winkel. Jeder Punkt auf ihr hat den gleichen Abstand zu beiden Schenkeln.

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: variable, parameter, derivative, differentiation variable
 ---
+
+# Variable und Parameter
+
+#vorkurs #vorkurs-physik
 
 > [!note] Variable oder Parameter?
 > Bei jeder Ableitung ist nur eine einzige Größe veränderlich: diejenige, nach der abgeleitet wird (im Nenner). Alle übrigen Buchstaben zählen als feste Zahlen.

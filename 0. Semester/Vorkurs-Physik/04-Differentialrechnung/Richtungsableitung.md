@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: directional derivative, gradient
 ---
+
+# Richtungsableitung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Richtungsableitung
 > Änderung von $H(x,y)$ in Richtung des Vektors $\vec{n}$:

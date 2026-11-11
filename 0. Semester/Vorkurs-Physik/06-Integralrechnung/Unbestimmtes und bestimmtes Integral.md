@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: indefinite integral, definite integral
 ---
+
+# Unbestimmtes und bestimmtes Integral
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Unbestimmtes und bestimmtes Integral
 > Das unbestimmte Integral ist eine Funktion, das bestimmte eine Zahl:

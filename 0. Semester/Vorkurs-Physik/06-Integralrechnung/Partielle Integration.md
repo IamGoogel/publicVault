@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: integration by parts, integral
 ---
+
+# Partielle Integration
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Partielle Integration
 > Integriert man die Produktregel $(f g)' = f' g + f g'$ auf beiden Seiten und stellt um, erhält man

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: graphical differentiation, slope, derivative
 ---
+
+# Graphisches Ableiten
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Graphisches Ableiten
 > Man liest die Steigung der Kurve $x(t)$ ab und trägt sie als Funktionswert von $v(t)$ in das darunterliegende Diagramm ein:

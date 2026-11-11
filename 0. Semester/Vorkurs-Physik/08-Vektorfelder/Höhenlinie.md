@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: level line, contour line, scalar field
 ---
+
+# Höhenlinie
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Höhenlinie
 > Eine Höhenlinie verbindet alle Punkte, an denen ein Skalarfeld denselben Wert hat. Andere Namen sind Konturlinie, Isolinie und (beim Potential) Äquipotentiallinie.

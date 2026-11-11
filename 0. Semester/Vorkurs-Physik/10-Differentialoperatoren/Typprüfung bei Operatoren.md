@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: operators, type check, scalar field, divergence, curl
 ---
+
+# Typprüfung bei Operatoren
+
+#vorkurs #vorkurs-physik
 
 > [!note] Erst den Typ klären
 > Für ein Skalarfeld sind Divergenz und Rotation nicht definiert: Die Divergenz ist ein Skalarprodukt, die Rotation ein Kreuzprodukt, beide brauchen zwei Vektoren, ein Skalarfeld $\Phi$ ist aber keiner. Ausdrücke wie $\nabla\cdot\Phi$ oder $\nabla\times\Phi$ sind deshalb nicht bloß falsch gerechnet, sondern sinnlos.

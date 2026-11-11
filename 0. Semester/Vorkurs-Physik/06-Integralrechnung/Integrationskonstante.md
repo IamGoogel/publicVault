@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: constant of integration, indefinite integral
 ---
+
+# Integrationskonstante
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Integrationskonstante und Anfangsbedingung
 > Bei jeder Integration entsteht eine Konstante, die durch eine Zusatzinformation festgelegt wird. Dazu setzt man den Wert der Variablen ein, für den man etwas weiß — meist $t = 0$. Alle Terme mit $t$ verschwinden dann, und es bleiben etwa $h(0) = h_0$ und $v(0) = v_0$: Starthöhe und Startgeschwindigkeit.

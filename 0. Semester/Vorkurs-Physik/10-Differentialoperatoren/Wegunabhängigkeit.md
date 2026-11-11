@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: path independence, conservative field, line integral
 ---
+
+# Wegunabhängigkeit
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Hauptsatz für Linienintegrale
 > Für $\vec{F} = \nabla f$ und jeden Weg $C$ von $\vec{r}_A$ nach $\vec{r}_B$ gilt

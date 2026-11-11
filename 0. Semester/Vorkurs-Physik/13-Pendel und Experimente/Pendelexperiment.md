@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Pendel und Experimente"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: pendulum experiment, initial angle, period, measurement
 ---
+
+# Pendelexperiment
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Pendelexperiment
 > - $\Phi$: Auslenkwinkel zum Zeitpunkt $0$ (unabhängige Variable)

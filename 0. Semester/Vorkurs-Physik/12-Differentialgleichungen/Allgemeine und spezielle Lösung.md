@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: general solution, particular solution, differential equation
 ---
+
+# Allgemeine und spezielle Lösung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Allgemeine und spezielle Lösung
 > Löst man eine Differentialgleichung, bleiben freie Konstanten stehen: Man erhält eine ganze Funktionenschar, die allgemeine Lösung. Legt man die Konstanten durch Zusatzangaben wie Anfangswerte fest, bleibt eine einzelne Funktion übrig, eine spezielle Lösung.

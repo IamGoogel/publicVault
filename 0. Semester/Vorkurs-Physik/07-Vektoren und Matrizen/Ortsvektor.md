@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: position vector, vector
 ---
+
+# Ortsvektor
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Ortsvektor
 > Der Ortsvektor $\vec{r}(t)$ ist der Pfeil vom Koordinatenursprung zu dem Punkt, an dem sich ein Körper zur Zeit $t$ befindet. Bei einer Bewegung zeichnet seine Spitze die [[Bahnkurve]] (Trajektorie).

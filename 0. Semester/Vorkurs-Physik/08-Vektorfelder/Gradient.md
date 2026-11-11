@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: gradient, scalar field, nabla
 ---
+
+# Gradient
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Gradient
 > Wendet man $\nabla$ auf ein Skalarfeld $U$ an, erhält man ein Vektorfeld, den Gradienten:

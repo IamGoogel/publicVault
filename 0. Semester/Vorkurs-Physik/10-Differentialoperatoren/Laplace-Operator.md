@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Laplace operator, second derivatives, scalar field
 ---
+
+# Laplace-Operator
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Laplace-Operator
 > Auf ein Skalarfeld $f$ angewandt:

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: determinant, matrix
 ---
+
+# Determinante (Vorkurs)
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Determinante ($2\times2$)
 > $$\det A = |A| = a\,d - b\,c \quad\text{für}\quad A = \begin{pmatrix} a & b \\ c & d \end{pmatrix}$$

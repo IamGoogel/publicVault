@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Taylor expansion, computing, derivatives
 ---
+
+# Taylor-Entwicklung berechnen
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Vorgehen: Taylor-Entwicklung von $f$ um $x_0$ bis zur Ordnung $N$
 > 1. Kehrwerte der Fakultäten notieren: $\frac{1}{1!} = 1$, $\frac{1}{2!} = \frac{1}{2}$, $\frac{1}{3!} = \frac{1}{6}$, $\frac{1}{4!} = \frac{1}{24}$.

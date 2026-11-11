@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Taylor expansion, logarithm
 ---
+
+# Taylor-Entwicklung von ln(x)
+
+#vorkurs #vorkurs-physik
 
 > [!example]+ Taylor-Entwicklung von $\ln(x)$ um $x_0 = 1$ mit $N = 3$
 > **Vorarbeit:** Ableitungen und ihre Werte an $x_0 = 1$

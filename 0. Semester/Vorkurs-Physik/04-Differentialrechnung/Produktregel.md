@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: product rule, derivative
 ---
+
+# Produktregel
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Produktregel
 > $$(u\,v)' = u'\,v + u\,v'$$

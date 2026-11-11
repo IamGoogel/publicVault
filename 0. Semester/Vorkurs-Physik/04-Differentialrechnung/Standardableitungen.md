@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: standard derivatives, elementary functions
 ---
+
+# Standardableitungen
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Standardableitungen
 > Auf folgende Grundfälle lassen sich die Ableitungsregeln zurückführen:

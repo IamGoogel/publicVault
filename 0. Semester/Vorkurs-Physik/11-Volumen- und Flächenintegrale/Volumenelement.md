@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Volumen- und Flächenintegrale"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: volume element, coordinates, integration
 ---
+
+# Volumenelement
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Volumenelement in verschiedenen Koordinaten
 > Wie $dV$ aussieht, hängt vom Koordinatensystem ab: Ein Winkel ist keine Länge; erst $\varrho\,d\varphi$ ist eine.

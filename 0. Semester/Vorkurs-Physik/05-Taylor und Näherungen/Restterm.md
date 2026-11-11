@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: remainder term, Taylor expansion, error
 ---
+
+# Restterm
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Restterm
 > Notation für den Fehler einer Näherung:

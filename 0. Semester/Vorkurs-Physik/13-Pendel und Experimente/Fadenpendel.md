@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Pendel und Experimente"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: simple pendulum, string pendulum, oscillation
 ---
+
+# Fadenpendel
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Zeitlicher Verlauf von $\varphi$ beim **Fadenpendel**, wobei $T$ die in der Skizze markierte Periode ist:

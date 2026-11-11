@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: velocity, cylindrical coordinates
 ---
+
+# Geschwindigkeit in Zylinderkoordinaten
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Geschwindigkeit in Zylinderkoordinaten
 > Die Geschwindigkeit ist die zeitliche Ableitung des Ortsvektors. Da $\hat{e}_\varrho$ nach [[Mitgedrehte Basis|der Ableitungsregel]] nicht konstant ist, entstehen bei der [[Produktregel]] drei Summanden:

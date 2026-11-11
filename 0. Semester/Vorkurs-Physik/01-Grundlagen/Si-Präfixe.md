@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Grundlagen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: SI prefixes, powers of ten, units
 ---
+
+# Si-Präfixe
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > [[Si-Einheiten|SI]]-**Präfixe** bilden dezimale Vielfache und Teile einer Einheit, z.B. $1\,\mathrm{km} = 10^{3}\,\mathrm{m}$.

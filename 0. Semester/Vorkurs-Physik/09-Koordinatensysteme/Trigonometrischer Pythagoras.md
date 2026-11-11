@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: trigonometric Pythagorean identity, sine, cosine
 ---
+
+# Trigonometrischer Pythagoras
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Trigonometrischer Pythagoras
 > Für jeden Winkel gilt

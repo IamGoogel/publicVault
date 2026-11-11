@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: unit vector, normalization
 ---
+
+# Einheitsvektor
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Einheitsvektor
 > Der Einheitsvektor zu $\vec{a}$ hat dieselbe Richtung wie $\vec{a}$ und die Länge 1:

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: curl, rotation, vector field
 ---
+
+# Rotation
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Rotation
 > Die Rotation ist das Kreuzprodukt aus dem Nabla-Vektor und dem Feld:

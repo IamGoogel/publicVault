@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: spherical coordinates, coordinates
 ---
+
+# Kugelkoordinaten
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Kugelkoordinaten
 > Ein Punkt wird durch den Abstand $r$ vom Ursprung und zwei Winkel festgelegt — ähnlich wie Radius, Breite und Länge auf der Erdkugel. Es gilt $r \in [0,\infty)$, $\vartheta \in [0,\pi]$ (Nordpol $\vartheta = 0$, Äquator $\frac{\pi}{2}$, Südpol $\pi$) und $\varphi \in [0,2\pi)$:

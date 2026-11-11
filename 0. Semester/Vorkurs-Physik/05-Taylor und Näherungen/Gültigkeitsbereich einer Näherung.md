@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: validity range, approximation
 ---
+
+# Gültigkeitsbereich einer Näherung
+
+#vorkurs #vorkurs-physik
 
 > [!note] Gültigkeitsbereich einer Näherung
 > Eine Näherung sagt erst dann etwas aus, wenn man dazusagt, für welche Werte sie brauchbar ist. Was „klein“ heißt, legt man selbst fest; es steckt nicht in der Formel.

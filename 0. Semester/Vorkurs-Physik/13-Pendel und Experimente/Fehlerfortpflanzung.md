@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Pendel und Experimente"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: error propagation, uncertainty
 ---
+
+# Fehlerfortpflanzung
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Fehlerfortpflanzung
 > Kennt man die Eingangsgrößen von $d$ nur mit Unsicherheiten $\Delta\omega_0$, $\Delta v_0$, $\dots$, wirkt jede davon gemäß dem [[Differential]] auf $d$, und die Beträge werden addiert:

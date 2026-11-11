@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: quadratic approximation, Taylor expansion
 ---
+
+# Quadratische Näherung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Quadratische Näherung
 > Die Taylor-Entwicklung wird nach dem Term zweiter Ordnung abgebrochen, typischerweise bei Extremstellen (Parabel). Höhere Ordnungen braucht man selten.

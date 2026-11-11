@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: trajectory, path, parametrization
 ---
+
+# Bahnkurve
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Bahnkurve und Parametrisierung
 > Eine Parametrisierung bildet jeden Parameterwert $t$ eines Intervalls auf einen Punkt $\vec{r}(t)$ ab. Das Intervall gehört zur Angabe dazu, sonst bleibt offen, welcher Teil der Kurve gemeint ist. Eine in Koordinaten beschriebene Bewegung wird zur Bahnkurve, wenn man $\varrho(t)$, $\varphi(t)$, $z(t)$ in die Umrechnungsformeln einsetzt.

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: basic integrals, antiderivatives
 ---
+
+# Grundintegrale
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Grundintegrale
 > Jede Formel ist eine Ableitungsregel in umgekehrter Richtung: Leitet man die rechte Seite ab, muss die linke Seite entstehen. Die Konstante $+C$ ist nicht mit aufgeführt, gehört aber immer dazu; es sei $a \neq 0$.

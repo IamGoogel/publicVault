@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Polynome und Brüche"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: polynomials, degree, coefficients
 ---
+
+# Polynome
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Ein **Polynom** $n$-ten Grades ist eine Funktion der Form

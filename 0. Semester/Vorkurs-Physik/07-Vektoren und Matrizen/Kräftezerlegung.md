@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: force decomposition, vector components, forces
 ---
+
+# Kräftezerlegung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Kräftezerlegung (Orthogonalzerlegung)
 > Man schreibt eine Kraft als Summe zweier aufeinander senkrechter Anteile. Hat die Kraft den Betrag $F$ und schließt den Winkel $\alpha$ mit der $x$-Achse ein, dann gilt

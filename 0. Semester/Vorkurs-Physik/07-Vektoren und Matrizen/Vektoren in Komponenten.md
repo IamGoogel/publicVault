@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: vector components, vectors
 ---
+
+# Vektoren in Komponenten
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Rechnen mit Komponenten
 > Für $\vec{a} = (a_1, a_2, a_3)^T$, $\vec{b} = (b_1, b_2, b_3)^T$ und $\lambda \in \mathbb{R}$ gilt

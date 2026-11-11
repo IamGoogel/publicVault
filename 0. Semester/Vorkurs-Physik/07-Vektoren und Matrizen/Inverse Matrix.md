@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: inverse matrix, matrix
 ---
+
+# Inverse Matrix
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Inverse Matrix ($2\times2$)
 > Die inverse Matrix kehrt die Wirkung von $A$ um. Das Gegenstück zur Zahl 1 ist die Einheitsmatrix $\mathbb{1}$ (Einsen auf der Hauptdiagonalen, sonst Nullen), für die $\mathbb{1}A = A\mathbb{1} = A$ gilt.

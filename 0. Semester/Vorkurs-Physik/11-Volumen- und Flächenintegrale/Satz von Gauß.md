@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Volumen- und Flächenintegrale"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Gauss's theorem, divergence theorem, flux
 ---
+
+# Satz von Gauß
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Satz von Gauß (Divergenzsatz)
 > Für ein Vektorfeld $\vec{F}$ und ein Volumen $V$, dessen Rand $\partial V$ eine geschlossene Fläche ist, gilt

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Polynome und Brüche"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: linear factorization, roots, polynomials
 ---
+
+# Linearfaktorzerlegung
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Die **Linearfaktorzerlegung** eines [[Polynome|Polynoms]] mit den [[Nullstelle|Nullstellen]] $x_1, \ldots, x_n$:

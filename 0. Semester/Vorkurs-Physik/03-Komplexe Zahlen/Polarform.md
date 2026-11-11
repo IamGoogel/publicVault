@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: polar form, complex numbers, modulus, argument
 ---
+
+# Polarform
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Die **Polarform** einer [[Komplexe Zahl|komplexen Zahl]] $z$ ist

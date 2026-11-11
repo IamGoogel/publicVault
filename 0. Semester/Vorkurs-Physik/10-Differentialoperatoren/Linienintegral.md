@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialoperatoren"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: line integral, vector field, path
 ---
+
+# Linienintegral
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Linienintegral
 > Ein Körper bewegt sich entlang eines Weges durch ein Kraftfeld. Welche Arbeit leistet das Feld dabei? Für ein Vektorfeld $\vec{F}$ und eine Kurve $C$ vom Ortsvektor $\vec{r}_1$ zum Ortsvektor $\vec{r}_2$ definiert man

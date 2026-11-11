@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: differentiation rules, derivative
 ---
+
+# Ableitungsregeln
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Elementare Ableitungsregeln
 > $$c' = 0, \qquad (c\,u)' = c\,u', \qquad (u + v)' = u' + v', \qquad (k\,x^n)' = n\,k\,x^{n-1}$$

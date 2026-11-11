@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: cylindrical coordinates, coordinates
 ---
+
+# Zylinderkoordinaten
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Zylinderkoordinaten
 > Zu den ebenen [[Polarkoordinaten]] kommt als dritte Koordinate die kartesische Höhe $z$. Es gilt $\varrho \in [0,\infty)$, $\varphi \in [0,2\pi)$, $z \in (-\infty,\infty)$:

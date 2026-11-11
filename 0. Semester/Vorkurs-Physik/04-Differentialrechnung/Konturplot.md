@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: contour plot, level lines, function of two variables
 ---
+
+# Konturplot
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Konturplot
 > Darstellung einer Funktion $H(x, y)$ in der $x$-$y$-Ebene durch Linien gleicher Höhe.

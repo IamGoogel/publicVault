@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Grundlagen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: SI units, units, derived units
 ---
+
+# Si-Einheiten
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > **SI** steht für *Système international d'unités* (Internationales Einheitensystem).

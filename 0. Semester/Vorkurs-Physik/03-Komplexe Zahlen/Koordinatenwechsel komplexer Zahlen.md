@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: coordinate change, Cartesian form, polar form
 ---
+
+# Koordinatenwechsel komplexer Zahlen
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Wechsel zwischen [[Komplexe Zahl|Normalform]] und [[Polarform]]:

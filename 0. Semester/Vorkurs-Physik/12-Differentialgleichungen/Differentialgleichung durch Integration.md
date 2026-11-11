@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: differential equation, direct integration
 ---
+
+# Differentialgleichung durch Integration
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Der einfachste Fall: direktes Integrieren
 > Steht rechts die gesuchte Funktion nicht, ist weder ein Ansatz noch ein besonderes Verfahren nötig: $y'(x) = f(x)$ verlangt lediglich eine [[Stammfunktion]]. So folgt aus $\dot{v} = -g$ sofort $v(t) = -g\,t + v_0$. Bei zweiter Ordnung integriert man zweimal.

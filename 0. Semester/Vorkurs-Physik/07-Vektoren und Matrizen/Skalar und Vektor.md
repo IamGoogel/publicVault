@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: scalar, vector
 ---
+
+# Skalar und Vektor
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Skalar und Vektor
 > Ein Skalar wird allein durch eine Zahl beschrieben (z. B. Masse, Zeit). Ein Vektor hat zusätzlich eine Richtung im Raum (z. B. Ort, Kraft); drei Zahlen, seine Komponenten, legen ihn fest.

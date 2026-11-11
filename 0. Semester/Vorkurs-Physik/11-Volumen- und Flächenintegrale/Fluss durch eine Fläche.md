@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Volumen- und Flächenintegrale"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: flux, surface integral
 ---
+
+# Fluss durch eine Fläche
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Fluss durch eine Fläche
 > Bild: Wie viel Wasser pro Sekunde durch einen Rahmen strömt, hängt von der Strömung und von der Stellung des Rahmens ab. Für ein Vektorfeld $\vec{F}$ und eine Fläche $A$ definiert man

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: differential equation, ODE, solution
 ---
+
+# Differentialgleichung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Differentialgleichung und Ordnung
 > Eine Differentialgleichung verknüpft eine unbekannte Funktion mit einer oder mehreren ihrer Ableitungen. Gesucht ist keine Zahl, sondern jede Funktion, die die Gleichung erfüllt. Hängt die Funktion nur von einer Variablen ab, spricht man von einer gewöhnlichen Differentialgleichung.

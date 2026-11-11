@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: atan2, angle, quadrant
 ---
+
+# Winkelbestimmung mit atan2
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Der richtige Quadrant beim Arkustangens
 > Aus $\tan\varphi = \frac{y}{x}$ könnte man $\varphi = \arctan\frac{y}{x}$ schließen. Das stimmt aber nur in einer Halbebene: Der Arkustangens liefert immer Werte zwischen $-\frac{\pi}{2}$ und $+\frac{\pi}{2}$, während $(1,1)$ und $(-1,-1)$ den gleichen Quotienten haben. Die vollständige Fallunterscheidung ist $\mathrm{atan2}$:

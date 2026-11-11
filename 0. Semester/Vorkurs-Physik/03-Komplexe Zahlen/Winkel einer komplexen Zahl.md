@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: argument, phase, complex numbers
 ---
+
+# Winkel einer komplexen Zahl
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Der Winkel $\varphi$ von $z = u + iv$ folgt aus

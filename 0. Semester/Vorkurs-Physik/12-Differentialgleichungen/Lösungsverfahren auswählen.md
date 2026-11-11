@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: solution methods, differential equations
 ---
+
+# Lösungsverfahren auswählen
+
+#vorkurs #vorkurs-physik
 
 > [!note] Entscheidungsweg in vier Fragen
 > 1. Fehlt die gesuchte Funktion auf der rechten Seite? Dann wird direkt integriert, so oft wie die Ordnung angibt ([[Differentialgleichung durch Integration]]).

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: imaginary unit, complex numbers
 ---
+
+# Imaginäre Einheit
+
+#vorkurs #vorkurs-physik
 
 > [!definition]
 > Das Polynom $x^2 + 1$ hat keine Nullstellen in $\mathbb{R}$. Aus

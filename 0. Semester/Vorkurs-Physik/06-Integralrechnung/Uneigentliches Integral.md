@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: improper integral, limits
 ---
+
+# Uneigentliches Integral
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Unendliche Integrationsgrenze
 > Eine unendliche Grenze wird als Grenzwert verstanden:

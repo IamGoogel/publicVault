@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: chain rule, derivative
 ---
+
+# Kettenregel
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Kettenregel
 > Ist eine Funktion in das Argument einer anderen eingesetzt, gilt

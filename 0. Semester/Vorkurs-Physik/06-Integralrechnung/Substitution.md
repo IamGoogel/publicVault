@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: substitution, integration
 ---
+
+# Substitution
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Integration durch Substitution
 > Sie ist die Umkehrung der [[Kettenregel]]: Die Ableitung von $F(u(x))$ ist $f(u(x))\,u'(x)$; umgekehrt gilt

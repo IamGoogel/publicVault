@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektorfelder"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: force, potential, gradient
 ---
+
+# Kraft und Potential
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Kraft und Potential
 > $$\vec{F} = -\nabla V \quad\Longleftrightarrow\quad \nabla V = \mathrm{grad}\,V = -\vec{F}$$

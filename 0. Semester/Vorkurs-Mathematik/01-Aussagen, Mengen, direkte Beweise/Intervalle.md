@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Mathematik
 fach: Mathematik
-semester: 0
 part: "Kap. 1"
-Kurs: Vorkurs Mathematik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-mathe]
+keywords: interval, open interval, closed interval, real numbers
 ---
+
+# Intervalle
+
+#vorkurs #vorkurs-mathe
 
 > [!definition]
 > Ein **Intervall** ist eine zusammenhängende Teilmenge von $\mathbb{R}$ zwischen zwei Grenzen $a < b$:

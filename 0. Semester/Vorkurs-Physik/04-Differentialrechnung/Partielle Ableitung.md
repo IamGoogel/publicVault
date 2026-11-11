@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: partial derivative, multivariable functions
 ---
+
+# Partielle Ableitung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Partielle Ableitung
 > Hängt eine Größe von mehreren Parametern ab, wird nur nach einem Parameter abgeleitet, z. B.

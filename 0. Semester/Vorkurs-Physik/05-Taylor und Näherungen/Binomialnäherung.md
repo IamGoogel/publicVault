@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: binomial approximation, Taylor expansion
 ---
+
+# Binomialnäherung
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Binomialnäherung
 > Sie ist der Sonderfall der [[Lineare Näherung|linearen Näherung]] bei $x=0$: $(1+x)^n \approx 1 + n x$ für beliebiges $n$, darunter $n = \frac{1}{2}$ und $n = -1$:

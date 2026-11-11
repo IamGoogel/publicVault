@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: logarithmic integration, integral
 ---
+
+# Logarithmische Integration
+
+#vorkurs #vorkurs-physik
 
 > [!satz] Zähler gleich Ableitung des Nenners
 > Steckt im Integranden die innere Ableitung schon als Faktor, wählt man $u(x)$ als Substitution. Besonders wichtig ist der Bruch, dessen Zähler die Ableitung des Nenners ist:

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: rotation matrix, rotation, angle
 ---
+
+# Drehmatrix
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Drehmatrix
 > Eine lineare Abbildung ist durch die Bilder der Basisvektoren festgelegt. Bei einer Drehung um den Winkel $\alpha$ gegen den Uhrzeigersinn wird $\hat{e}_x = (1,0)^T$ zu $(\cos\alpha, \sin\alpha)^T$ und $\hat{e}_y = (0,1)^T$ zu $(-\sin\alpha, \cos\alpha)^T$. Schreibt man diese Bilder als Spalten nebeneinander, entsteht die Drehmatrix:

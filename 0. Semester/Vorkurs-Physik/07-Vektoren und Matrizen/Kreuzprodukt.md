@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Vektoren und Matrizen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: cross product, vectors, orthogonality
 ---
+
+# Kreuzprodukt
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Kreuzprodukt
 > Für $\vec{a}, \vec{b} \in \mathbb{R}^3$ ist das Kreuzprodukt der Vektor

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Integralrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: integrals in physics, applications
 ---
+
+# Integrale in der Physik
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Weg aus Geschwindigkeit
 > Kennt man $v(t)$ für alle Zeiten, ergibt sich der bis $t$ zurückgelegte Weg als

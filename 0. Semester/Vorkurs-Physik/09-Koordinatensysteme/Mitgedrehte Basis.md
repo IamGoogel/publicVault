@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: co-rotating basis, basis vectors, polar coordinates
 ---
+
+# Mitgedrehte Basis
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Mitgedrehte Basis
 > „Radial nach außen“ bedeutet bei $(2\,|\,0)$ nach rechts, bei $(0\,|\,2)$ nach oben — die Richtung hängt also vom Ort ab. In der Ebene gilt:

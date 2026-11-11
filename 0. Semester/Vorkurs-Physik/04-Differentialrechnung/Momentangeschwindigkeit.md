@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialrechnung"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: instantaneous velocity, derivative
 ---
+
+# Momentangeschwindigkeit
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Momentangeschwindigkeit
 > Die Momentangeschwindigkeit ist die Ableitung des Ortes nach der Zeit:

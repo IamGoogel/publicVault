@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Koordinatensysteme"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: polar coordinates, radius, angle
 ---
+
+# Polarkoordinaten
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Ebene Polarkoordinaten
 > $\varrho$ ist der Abstand zum Ursprung, $\varphi$ der Winkel zur $x$-Achse; $\varrho \in [0,\infty)$, $\varphi \in [0, 2\pi)$:

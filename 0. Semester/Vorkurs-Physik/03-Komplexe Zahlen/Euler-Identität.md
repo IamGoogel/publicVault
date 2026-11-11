@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Komplexe Zahlen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Euler's identity, complex exponential, Euler's formula
 ---
+
+# Euler-Identität
+
+#vorkurs #vorkurs-physik
 
 > [!satz]
 > $$\cos(\varphi) + i\sin(\varphi) = e^{i\varphi}$$

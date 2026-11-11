@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Differentialgleichungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: oscillation equation, harmonic oscillator, differential equation
 ---
+
+# Schwingungsgleichung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Schwingungsgleichung (harmonischer Oszillator)
 > Ohne Reibung und äußere Anregung:

@@ -1,14 +1,13 @@
 ---
 modul: Vorkurs Physik
 fach: Physik
-semester: 0
 part: "Thema Taylor und Näherungen"
-Kurs: Vorkurs Physik
-Verstaendnis: 0
-gelesen: false
-geuebt: false
-tags: [vorkurs, vorkurs-physik]
+keywords: Taylor expansion, Taylor series, approximation
 ---
+
+# Taylor-Entwicklung
+
+#vorkurs #vorkurs-physik
 
 > [!definition] Taylor-Entwicklung
 > Näherung einer Funktion $f$ um die Stelle $x_0$ bis zur Ordnung $N$:
