@@ -5,12 +5,12 @@ part: "Thema Grundlagen"
 keywords: SI prefixes, powers of ten, units
 ---
 
-# Si-Präfixe
+# SI-Präfixe
 
 #vorkurs #vorkurs-physik
 
 > [!definition]
-> [[Si-Einheiten|SI]]-**Präfixe** bilden dezimale Vielfache und Teile einer Einheit, z.B. $1\,\mathrm{km} = 10^{3}\,\mathrm{m}$.
+> [[SI-Einheiten|SI]]-**Präfixe** bilden dezimale Vielfache und Teile einer Einheit, z.B. $1\,\mathrm{km} = 10^{3}\,\mathrm{m}$.
 >
 > | Faktor | Präfix | Symbol |
 > | :-: | :-: | :-: |

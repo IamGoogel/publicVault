@@ -10,7 +10,7 @@ keywords: base quantities, physical quantities, SI
 #vorkurs #vorkurs-physik
 
 > [!definition]
-> Das [[Si-Einheiten|SI]] kennt **7 Basisgrößen**. Jeder Basisgröße ist eine [[Basiseinheiten|Basiseinheit]] zugeordnet.
+> Das [[SI-Einheiten|SI]] kennt **7 Basisgrößen**. Jeder Basisgröße ist eine [[Basiseinheiten|Basiseinheit]] zugeordnet.
 >
 > | Basisgröße | Formelzeichen |
 > | :-- | :-: |

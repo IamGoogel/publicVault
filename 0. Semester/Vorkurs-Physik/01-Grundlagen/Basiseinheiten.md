@@ -10,7 +10,7 @@ keywords: base units, SI units
 #vorkurs #vorkurs-physik
 
 > [!definition]
-> Die **Basiseinheiten** des [[Si-Einheiten|SI]] gehören zu den 7 [[Basisgrößen|Basisgrößen]]:
+> Die **Basiseinheiten** des [[SI-Einheiten|SI]] gehören zu den 7 [[Basisgrößen|Basisgrößen]]:
 >
 > | Basiseinheit | Symbol | Basisgröße |
 > | :-- | :-: | :-- |

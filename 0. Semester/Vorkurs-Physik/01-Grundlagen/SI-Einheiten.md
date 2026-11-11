@@ -5,7 +5,7 @@ part: "Thema Grundlagen"
 keywords: SI units, units, derived units
 ---
 
-# Si-Einheiten
+# SI-Einheiten
 
 #vorkurs #vorkurs-physik
 
@@ -16,7 +16,7 @@ keywords: SI units, units, derived units
 > > Das **SI** besteht aus drei Teilen:
 > > 1. **[[Basiseinheiten|Basiseinheiten]]:** Die 7 Einheiten der [[Basisgrößen|Basisgrößen]].
 > > 2. **Abgeleitete Einheiten:** Werden durch Multiplikation und Division der [[Basiseinheiten|Basiseinheiten]] gebildet.
-> > 3. **Dezimale Vielfache und Teile:** Werden durch [[Si-Präfixe|Präfixe]] gebildet.
+> > 3. **Dezimale Vielfache und Teile:** Werden durch [[SI-Präfixe|Präfixe]] gebildet.
 >
 > > [!note]+ Abgeleitete Einheiten mit eigenem Namen
 > >
