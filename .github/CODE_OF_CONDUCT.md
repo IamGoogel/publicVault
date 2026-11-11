@@ -6,7 +6,7 @@ In diesem Repository werden Lernnotizen zu Mathematik und Physik geteilt. Alle, 
 ## Erwünschtes Verhalten
 - sachlich und freundlich bleiben; Kritik richtet sich gegen den Inhalt, nicht gegen Personen
 - Fehlermeldungen als Hinweis verstehen und so formulieren, nicht als Vorwurf
-- Fragen von Einsteiger*innenn ernst nehmen
+- Fragen von Einsteiger*innen ernst nehmen
 - Rückmeldungen annehmen und konstruktiv diskutieren
 - Urheberrechte und die Arbeit anderer respektieren
 
