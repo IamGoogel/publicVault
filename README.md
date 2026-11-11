@@ -7,7 +7,7 @@ Die Notizen sind Lernzusammenfassungen, die für die eigene Prüfungsvorbereitun
 Die Notizen sind private Zusammenfassungen und keine offiziellen Lehrmaterialien. Trotz sorgfältiger Prüfung besteht **keine Garantie auf absolute Richtigkeit** der Inhalte.
 
 ## Fehler melden
-Fehler oder Unklarheiten bitte als [**Issue**](https://github.com/IamGoogel/publicVault/issues/new) in diesem Repository melden, mit Angabe der betroffenen Notiz und einer kurzen Beschreibung des Fehlers.
+Fehler oder Unklarheiten bitte als [**Issue**](https://github.com/IamGoogel/publicVault/issues/new/choose) in diesem Repository melden. Dafür gibt es die Vorlage „Fehler in einer Notiz melden“ mit Angabe der betroffenen Notiz und einer kurzen Beschreibung des Fehlers; Verbesserungsvorschläge laufen über die Vorlage „Verbesserungsvorschlag“. Hinweise zu Beiträgen stehen in [CONTRIBUTING.md](.github/CONTRIBUTING.md), für den Umgang miteinander gilt der [Verhaltenskodex](.github/CODE_OF_CONDUCT.md).
 
 ## Darstellung
 Der Ordner ist ein **Obsidian-Vault**: Markdown-Dateien mit Obsidian-spezifischer Syntax.
