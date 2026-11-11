@@ -9,12 +9,12 @@ keywords: cardinality, countable, uncountable
 
 #maphy1 #foundations #set-theory #atomic
 
-| Begriff             | Definition                                                         |
-| ------------------- | ------------------------------------------------------------------ |
-| gleichmächtig       | es gibt eine [[Injektiv, surjektiv, bijektiv\|Bijektion]] $M\to N$ |
-| abzählbar unendlich | gleichmächtig zu $\mathbb N$                                       |
-| abzählbar           | endlich **oder** abzählbar unendlich                               |
-| überabzählbar       | nicht abzählbar                                                    |
+| Begriff             | Definition                                                                                                       |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| gleichmächtig       | Mengen $A,B$ sind gleichmächtig, wenn es eine [[Injektiv, surjektiv, bijektiv\|Bijektion]] $f\colon A\to B$ gibt |
+| abzählbar unendlich | $M$ ist gleichmächtig zu $\mathbb N$                                                                             |
+| abzählbar           | endlich **oder** abzählbar unendlich                                                                             |
+| überabzählbar       | nicht abzählbar                                                                                                  |
 
 **Ergebnisse.**
 - Bsp.: $\mathbb N,\mathbb Z,\mathbb Q$ sind gleichmächtig.
